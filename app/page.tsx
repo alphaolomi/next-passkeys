@@ -1,7 +1,5 @@
 import Link from 'next/link'
 
-// implement a HomePage with a TopNav, a div centered vertically and horizontally with a title, sub title and a button to go to the login page, and a button to go to the registration page
-
 export default function HomePage() {
   return (
     <div>
